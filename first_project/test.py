@@ -7,5 +7,5 @@ else:
 
 x="bharat"
 y=34
-z= f"my name is {x} and my age is {y}" 
+z= f"my name is {x} and my age is {y}"
 print(z)  
